@@ -5,4 +5,4 @@ Pour installer _az_ sur _macOS_, il suffit d'ouvrir un terminal est d'y exécute
 mkdir az.zip && wget -O az.zip/1.zip "https://github.com/kylak/az/blob/main/az.zip?raw=true" && cd az.zip && unzip * && bash installer && rm -Rf ../az.zip && cd ..
 ```
 <br>
-Attention: s'il existe, avant d'exécuter cette commande, un sous-dossier du répertoire courant nommé "az.zip", cette commande va le supprimer.
+Attention: s'il existe, avant d'exécuter cette commande, un dossier du répertoire courant nommé "az.zip", cette commande va le supprimer.
