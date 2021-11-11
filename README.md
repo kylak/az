@@ -1,4 +1,4 @@
-Pour installer _az_ de manière automatique sur _macOS_, il suffit d'ouvrir un terminal est d'y exécuter la commande suivante :<br>
+Pour installer _az_ d'une manière automatique sur _macOS_, il suffit d'ouvrir un terminal est d'y exécuter la commande suivante :<br>
 [To install _az_ in an automated way on _macOS_, you can open a terminal and execute inside the following command :]
 
 ```
