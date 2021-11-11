@@ -5,4 +5,4 @@ Pour installer _az_ sur _macOS_, il suffit d'ouvrir un terminal est d'y exécute
 cd && wget -O az.zip "" && unzip az.zip -q -d az.zip/ && rm az.zip && cd az.zip/az/ && bash installer && cd ../../ && rm -Rf az.zip
 ```
 <br>
-Attention, s'il existe dans votre dossier ~, avant d'exécuter cette commande, un fichier nommé "az.zip", cette commande va le remplacer.
+Attention, s'il existe, avant d'exécuter cette commande, un fichier nommé "az.zip" dans votre dossier ~, cette commande va le remplacer.
