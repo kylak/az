@@ -1,4 +1,8 @@
-version: 0.2
+version: 0.2.1
 date de création: 15/11/21
-nouveauté:
-- ajout de l'option de mise-à-jour : --maj
+
+historique:
+0.2.1 : 
+	- résolution d'un bug lors de l'installation.
+0.2 :
+	- ajout de l'option de mise-à-jour : --maj
